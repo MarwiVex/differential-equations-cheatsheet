@@ -33,7 +33,7 @@ Este repositorio contiene un formulario exhaustivo de Ecuaciones Diferenciales O
 ---
 
 ## Credits / Créditos
-Created and compiled by **Roberto León Landeros**.
+Material originally inspired by the notes of Paul Dawkins. Created and compiled by Roberto León Landeros.
 
 ## License / Licencia
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
