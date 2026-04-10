@@ -29,7 +29,7 @@ pdflatex formulario_edo.tex
 
 ## Créditos
 
-Material originalmente inspirado en las notas de matemáticas de **Paul Dawkins**. Ampliado y compilado por **Roberto León Landeros**.
+Material originalmente inspirado en las notas de matemáticas de **Paul Dawkins**. Creado y compilado por **Roberto León Landeros**.
 
 ## Licencia
 
