@@ -29,7 +29,7 @@ pdflatex ode_cheatsheet.tex
 
 ## Credits
 
-Material originally inspired by the notes of **Paul Dawkins**. Expanded and compiled by **Roberto León Landeros**.
+Material originally inspired by the notes of **Paul Dawkins**. Created and compiled by **Roberto León Landeros**.
 
 ## License
 
